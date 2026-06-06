@@ -2,6 +2,16 @@
 
 所有古籍文件存放在 `tcm/` 子目录下。
 
+## 数据来源
+
+本数据库基于以下开源项目整合优化而成，感谢原作者的贡献：
+
+- **[daizhigev20](https://github.com/garychowcmu/daizhigev20)** — 殆知阁古籍语料库
+- **[zhognhuayidian](https://github.com/wanghaisheng/zhognhuayidian)** — 中华医典古籍数据
+- **[TCM-Ancient-Books](https://github.com/xiaopangxia/TCM-Ancient-Books)** — 中医古籍收藏
+
+在上述原始数据基础上，本库进行了系统性整理与质量优化（详见整理历史章节）。
+
 ## 数据库概况
 
 | 项目 | 数据 |
