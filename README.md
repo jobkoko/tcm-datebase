@@ -1,5 +1,7 @@
 # 📚 中医古籍数据库 (TCM Ancient Books Database)
 
+所有古籍文件存放在 `tcm/` 子目录下。
+
 ## 数据库概况
 
 | 项目 | 数据 |
